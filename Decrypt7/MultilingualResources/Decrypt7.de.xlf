@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de" original="DECRYPT7/ASSETS/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1517.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="DECRYPT7/ASSETS/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="decryptError" translate="yes" xml:space="preserve">
+          <source>Not a type 7 password</source>
+          <target state="final" state-qualifier="mt-suggestion">Kein Kennwort Typ 7</target>
+        </trans-unit>
+        <trans-unit id="descriptionBody.Text" translate="yes" xml:space="preserve">
+          <source>Because of the weak encryption algorithm, you should treat any configuration file containing passwords as sensitive information, the same way you would treat a cleartext list of passwords.</source>
+          <target state="final" state-qualifier="mt-suggestion">Wegen der schwachen Verschlüsselungsalgorithmus sollten Sie Konfigurationsdatei, die mit Kennwörter als vertrauliche Informationen würden Sie eine Klartext-Liste von Passwörtern behandeln genauso behandeln.</target>
+        </trans-unit>
+        <trans-unit id="DescriptionIntro.Text" translate="yes" xml:space="preserve">
+          <source>User passwords and most other passwords in Cisco IOS configuration files are encrypted using a scheme that is very weak by modern cryptographic standards.</source>
+          <target state="final" state-qualifier="mt-suggestion">Benutzerkennwörter und den meisten anderen Passwörter in Cisco IOS Konfigurationsdateien werden von modernen kryptographischen Standards verschlüsselt mit einem Schema, das sehr schwach ist.</target>
+        </trans-unit>
+        <trans-unit id="hyperlinkButton.Content" translate="yes" xml:space="preserve">
+          <source>More information about Cisco's passwords.</source>
+          <target state="final" state-qualifier="mt-suggestion">Weitere Informationen zu Cisco Kennwörtern.</target>
+        </trans-unit>
+        <trans-unit id="inputButton.Content" translate="yes" xml:space="preserve">
+          <source>Decrypt</source>
+          <target state="final" state-qualifier="tm-suggestion">Entschlüsseln</target>
+        </trans-unit>
+        <trans-unit id="inputHeader.Text" translate="yes" xml:space="preserve">
+          <source>Enter type 7 crypted password</source>
+          <target state="final" state-qualifier="mt-suggestion">Typ 7 verschlüsselte Passwort eingeben</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

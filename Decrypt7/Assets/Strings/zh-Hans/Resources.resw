@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="decryptError" xml:space="preserve">
+    <value>不是一个类型 7 密码</value>
+  </data>
+  <data name="descriptionBody.Text" xml:space="preserve">
+    <value>由于弱加密算法，你应该对待任何包含密码作为敏感的信息，你会对待明文形式的密码列表的相同方式的配置文件。</value>
+  </data>
+  <data name="DescriptionIntro.Text" xml:space="preserve">
+    <value>用户密码和大多数其他 Cisco IOS 配置文件中的密码进行加密使用是非常弱的方案由现代加密标准。</value>
+  </data>
+  <data name="hyperlinkButton.Content" xml:space="preserve">
+    <value>有关思科的密码的详细信息。</value>
+  </data>
+  <data name="inputButton.Content" xml:space="preserve">
+    <value>解密</value>
+  </data>
+  <data name="inputHeader.Text" xml:space="preserve">
+    <value>输入类型 7 crypted 密码</value>
+  </data>
+</root>

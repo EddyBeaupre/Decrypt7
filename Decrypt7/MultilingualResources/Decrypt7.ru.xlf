@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="ru" original="DECRYPT7/ASSETS/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1517.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="DECRYPT7/ASSETS/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="decryptError" translate="yes" xml:space="preserve">
+          <source>Not a type 7 password</source>
+          <target state="final" state-qualifier="mt-suggestion">Не типа 7 пароль</target>
+        </trans-unit>
+        <trans-unit id="descriptionBody.Text" translate="yes" xml:space="preserve">
+          <source>Because of the weak encryption algorithm, you should treat any configuration file containing passwords as sensitive information, the same way you would treat a cleartext list of passwords.</source>
+          <target state="final" state-qualifier="mt-suggestion">Из-за слабого шифрования алгоритм вы должны относиться к любой другой файл конфигурации, содержащий пароли как конфиденциальной информации, так же, как вы бы лечить cleartext список паролей.</target>
+        </trans-unit>
+        <trans-unit id="DescriptionIntro.Text" translate="yes" xml:space="preserve">
+          <source>User passwords and most other passwords in Cisco IOS configuration files are encrypted using a scheme that is very weak by modern cryptographic standards.</source>
+          <target state="final" state-qualifier="mt-suggestion">Пароли пользователей и большинство других пароли в файлах конфигурации Cisco IOS шифруются с помощью схемы, которая является очень слабым современных криптографических стандартов.</target>
+        </trans-unit>
+        <trans-unit id="hyperlinkButton.Content" translate="yes" xml:space="preserve">
+          <source>More information about Cisco's passwords.</source>
+          <target state="final" state-qualifier="mt-suggestion">Дополнительные сведения о паролях Cisco.</target>
+        </trans-unit>
+        <trans-unit id="inputButton.Content" translate="yes" xml:space="preserve">
+          <source>Decrypt</source>
+          <target state="final" state-qualifier="tm-suggestion">Расшифровать</target>
+        </trans-unit>
+        <trans-unit id="inputHeader.Text" translate="yes" xml:space="preserve">
+          <source>Enter type 7 crypted password</source>
+          <target state="final" state-qualifier="mt-suggestion">Введите тип 7 crypted пароль</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

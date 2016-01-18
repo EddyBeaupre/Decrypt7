@@ -1,0 +1,7 @@
+MainPackage=C:\Users\eddy\documents\visual studio 2015\Projects\Decrypt7\Decrypt7\bin\ARM\Release\Upload\Decrypt7_1.1.0.0_ARM.appx
+SymbolPackage=C:\Users\eddy\documents\visual studio 2015\Projects\Decrypt7\Decrypt7\AppPackages\Decrypt7_1.1.0.0\Decrypt7_1.1.0.0_ARM.appxsym
+ResourcePack=C:\Users\eddy\documents\visual studio 2015\Projects\Decrypt7\Decrypt7\_language-de.appx
+ResourcePack=C:\Users\eddy\documents\visual studio 2015\Projects\Decrypt7\Decrypt7\_language-fr.appx
+ResourcePack=C:\Users\eddy\documents\visual studio 2015\Projects\Decrypt7\Decrypt7\_language-ja.appx
+ResourcePack=C:\Users\eddy\documents\visual studio 2015\Projects\Decrypt7\Decrypt7\_language-ru.appx
+ResourcePack=C:\Users\eddy\documents\visual studio 2015\Projects\Decrypt7\Decrypt7\_language-zh-hans.appx

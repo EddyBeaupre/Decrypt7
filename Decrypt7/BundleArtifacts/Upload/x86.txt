@@ -1,0 +1,2 @@
+MainPackage=C:\Users\eddy\documents\visual studio 2015\Projects\Decrypt7\Decrypt7\bin\x86\Release\Upload\Decrypt7_1.1.0.0_x86.appx
+SymbolPackage=C:\Users\eddy\documents\visual studio 2015\Projects\Decrypt7\Decrypt7\AppPackages\Decrypt7_1.1.0.0\Decrypt7_1.1.0.0_x86.appxsym

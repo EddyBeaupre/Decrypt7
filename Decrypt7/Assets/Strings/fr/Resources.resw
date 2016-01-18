@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="decryptError" xml:space="preserve">
+    <value>Pas un mot de passe de type 7</value>
+  </data>
+  <data name="descriptionBody.Text" xml:space="preserve">
+    <value>À cause de l'algorithme de chiffrement faible, vous devez traité n'importe quel fichier de configuration contenant des mots de passe de la même manière que vous traiteriez lune lliste de mots de passe en texte clair.</value>
+  </data>
+  <data name="DescriptionIntro.Text" xml:space="preserve">
+    <value>Les mots de passe utilisateur et la plupart autres mots de passe dans les fichiers de configuration Cisco IOS sont chiffrés à l'aide d'un schéma qui est très faible selon les normes cryptographiques modernes.</value>
+  </data>
+  <data name="hyperlinkButton.Content" xml:space="preserve">
+    <value>Plus d'informations sur les mots de passe Cisco.</value>
+  </data>
+  <data name="inputButton.Content" xml:space="preserve">
+    <value>Déchiffrer</value>
+  </data>
+  <data name="inputHeader.Text" xml:space="preserve">
+    <value>Entrez un mot de passe crypté de type 7</value>
+  </data>
+</root>

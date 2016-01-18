@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="decryptError" xml:space="preserve">
+    <value>パスワードを入力 7 ないです。</value>
+  </data>
+  <data name="descriptionBody.Text" xml:space="preserve">
+    <value>弱い暗号化アルゴリズムのためパスワードのクリア テキスト リストを扱う同じ方法、機密情報としてパスワードを含むすべての構成ファイルを扱う必要があります。</value>
+  </data>
+  <data name="DescriptionIntro.Text" xml:space="preserve">
+    <value>ユーザー パスワードおよび Cisco IOS 構成ファイルで他のほとんどのパスワード暗号化方式は非常に弱い現代の暗号化標準によって。</value>
+  </data>
+  <data name="hyperlinkButton.Content" xml:space="preserve">
+    <value>シスコのパスワードの詳細については。</value>
+  </data>
+  <data name="inputButton.Content" xml:space="preserve">
+    <value>暗号化解除</value>
+  </data>
+  <data name="inputHeader.Text" xml:space="preserve">
+    <value>タイプ 7 暗号化されたパスワードを入力します。</value>
+  </data>
+</root>

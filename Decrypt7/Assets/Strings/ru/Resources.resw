@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="decryptError" xml:space="preserve">
+    <value>Не типа 7 пароль</value>
+  </data>
+  <data name="descriptionBody.Text" xml:space="preserve">
+    <value>Из-за слабого шифрования алгоритм вы должны относиться к любой другой файл конфигурации, содержащий пароли как конфиденциальной информации, так же, как вы бы лечить cleartext список паролей.</value>
+  </data>
+  <data name="DescriptionIntro.Text" xml:space="preserve">
+    <value>Пароли пользователей и большинство других пароли в файлах конфигурации Cisco IOS шифруются с помощью схемы, которая является очень слабым современных криптографических стандартов.</value>
+  </data>
+  <data name="hyperlinkButton.Content" xml:space="preserve">
+    <value>Дополнительные сведения о паролях Cisco.</value>
+  </data>
+  <data name="inputButton.Content" xml:space="preserve">
+    <value>Расшифровать</value>
+  </data>
+  <data name="inputHeader.Text" xml:space="preserve">
+    <value>Введите тип 7 crypted пароль</value>
+  </data>
+</root>

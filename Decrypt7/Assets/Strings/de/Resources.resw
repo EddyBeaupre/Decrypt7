@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="decryptError" xml:space="preserve">
+    <value>Kein Kennwort Typ 7</value>
+  </data>
+  <data name="descriptionBody.Text" xml:space="preserve">
+    <value>Wegen der schwachen Verschlüsselungsalgorithmus sollten Sie Konfigurationsdatei, die mit Kennwörter als vertrauliche Informationen würden Sie eine Klartext-Liste von Passwörtern behandeln genauso behandeln.</value>
+  </data>
+  <data name="DescriptionIntro.Text" xml:space="preserve">
+    <value>Benutzerkennwörter und den meisten anderen Passwörter in Cisco IOS Konfigurationsdateien werden von modernen kryptographischen Standards verschlüsselt mit einem Schema, das sehr schwach ist.</value>
+  </data>
+  <data name="hyperlinkButton.Content" xml:space="preserve">
+    <value>Weitere Informationen zu Cisco Kennwörtern.</value>
+  </data>
+  <data name="inputButton.Content" xml:space="preserve">
+    <value>Entschlüsseln</value>
+  </data>
+  <data name="inputHeader.Text" xml:space="preserve">
+    <value>Typ 7 verschlüsselte Passwort eingeben</value>
+  </data>
+</root>
