@@ -7,3 +7,5 @@ Usage
 -----
 
 Very simple to use, past the crypted password, click decrypt and that's it.
+
+This is the Universal Windows Platform version.
